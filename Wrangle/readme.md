@@ -1,1 +1,1 @@
-
+This section consists of data wrangling part common to all our files in modelling. Here we will start with checking data integrity, treating missing values, exploratory data analysis, framing hypothesis, ANOVA test, feature engineering, feature transformation, encoding etc
