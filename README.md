@@ -8,11 +8,11 @@ This can be useful for insurance firms as in order to pre-emptively plan for the
 
 The chosen metric for assessing/evaluating performance of the model is mean squared error.
 
-The modelling is divided into 2 sections: 
+The analysis is divided into 2 sections: 
 
-Wrangle: Here we will prepare the data starting with checkcing data integrity, treating missing values, exploratory data analysis, framing hypothesis and ANOVA testing, feature engineering, feature transformation, encoding etc.
+1) Wrangle: Here we will prepare the data starting with checkcing data integrity, treating missing values, exploratory data analysis, framing hypothesis and ANOVA testing, feature engineering, feature transformation, encoding etc.
 
-Modelling: This section is further divided into 3 parts. Here we will demonstrate how to train and build a LGBM, Poisson GAM and also demonstrate usage of H2O library with Auto ML model building function.
+2) Modelling: This section is further divided into 3 parts. Here we will demonstrate how to train and build a LGBM, Poisson GAM and also demonstrate usage of H2O library with Auto ML model building function.
 
 Additional Info: We can try following methods which might further improve our scores:-
 
